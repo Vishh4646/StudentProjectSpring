@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: student-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: visha
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_351
+Implementation-URL: https://spring.io/projects/spring-boot/student-api
+Created-By: Maven Integration for Eclipse
+
